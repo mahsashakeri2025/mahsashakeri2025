@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm Mahsa Shakeri
+Welcome to my GitHub profile! I'm a developer based in Tehran, passionate about building web applications and exploring new technologies.
 
-<!--
-**mahsashakeri2025/mahsashakeri2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 About Me
+🌍 Located in Tehran, Iran
 
-Here are some ideas to get you started:
+🗓️ Joined GitHub on June 6, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently exploring web development and open-source
+
+📚 Always learning and building new projects
+
+🛠️ Tech Stack
+Languages: HTML, CSS, JavaScript (learning)
+
+Frameworks/Libraries: React (learning), Bootstrap
+
+Tools: Git, GitHub, VS Code
+
+📂 My Projects
+khalijefars-shopoping
+An e-commerce or shopping-related project built with CSS.
+(You can add more details here about what this project does!)
+
+🔹 Tech: CSS
+🔹 Status: Active development
+
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=mahsashakeri2025&show_icons=true&theme=default
+https://github-readme-stats.vercel.app/api/top-langs/?username=mahsashakeri2025&layout=compact
+
+📫 Connect with Me
+GitHub: @mahsashakeri2025
+
+(Add other social links if you like)
+
+🤝 Contributing
+I'm open to collaboration and contributions! Feel free to:
+
+Fork my projects
+
+Open issues or pull requests
+
+Suggest new features
+
+⭐ Thanks for visiting my profile!
+Check out my repositories and feel free to reach out.
